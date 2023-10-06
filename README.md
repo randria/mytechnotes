@@ -1,2 +1,2 @@
-# mytechnotes
-My Tech Notes and Reviews
+# My Tech Notes and Reviews
+*to be filled...*
