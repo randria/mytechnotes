@@ -1,4 +1,4 @@
-# Tech Notes
+# Tech Notes | Catalogue of tools
 
 ## mdbook
 
